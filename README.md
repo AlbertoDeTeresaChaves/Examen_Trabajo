@@ -4,4 +4,4 @@
 3. Entramos a nuestro explorer y nos vamos a nuestra carpeta
 3. Hacemos git add de nuestro proyecto: git add Examen_Alberto
 4. Hacemos un git commit de los cambios realizados: git commit -m "Proyecto realizado"
-5. git push origin
+5. git push origin main
