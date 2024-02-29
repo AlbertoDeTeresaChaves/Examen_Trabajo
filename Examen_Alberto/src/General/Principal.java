@@ -34,7 +34,6 @@ public class Principal {
 			oos.close();
 			archivo.close();
 			System.out.println("Resumen SHA-256 del Quijote creado con exito");
-			System.out.println("Resumen: ");//APARARICION DEL RESUMEN
 		}catch(IOException e) {e.printStackTrace();
 		}catch(NoSuchAlgorithmException e) {e.printStackTrace();}
 		
